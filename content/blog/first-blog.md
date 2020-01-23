@@ -8,7 +8,7 @@ description: My first blog
 
 ![headshot](assets/head_shot_circle.png "My Headshot")
 
-That's all I have to say :)
+That's all I have to say :)!!
 
 ```js
 const baby = () => {
