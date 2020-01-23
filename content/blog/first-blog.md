@@ -6,14 +6,16 @@ description: My first blog
 ---
 ### This is going to be Great!
 
-![](assets/head_shot_circle.png)
+![headshot](assets/head_shot_circle.png "My Headshot")
 
 That's all I have to say :)
 
-`const baby = () => {`
+```js
+const baby = () => {
 
-`const newBaby = makeTheBaby();`
+  const newBaby = makeTheBaby();
 
-`return newBaby;`
+  return newBaby;
 
-`}`
+}
+```
