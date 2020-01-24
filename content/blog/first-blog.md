@@ -7,7 +7,7 @@ description: My first blog
 
 ### This is going to be Great!
 
-![headshot](../../static/assets/head_shot_circle.png "My Headshot")
+![headshot](../../assets/head_shot_circle.png "My Headshot")
 
 That's all I have to say :)!! ::))
 
