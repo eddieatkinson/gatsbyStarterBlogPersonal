@@ -6,4 +6,4 @@ description: Changed Line 6 in Config.yml
 ---
 Let's see if this is different...
 
-![board](assets/board-day1.jpg "White board")
+![board](assets/5dollar.png "White board")
